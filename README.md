@@ -1,4 +1,4 @@
-Role Name
+version-control
 =========
 
 Install basic version control utilities, like git or hg (mercurial).
