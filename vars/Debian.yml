@@ -1,0 +1,4 @@
+---
+vc_os_pkgs :
+  - git
+  - mercurial
