@@ -1,0 +1,5 @@
+---
+vc_os_pkgs :
+  - git
+  - git-svn
+  - mercurial
